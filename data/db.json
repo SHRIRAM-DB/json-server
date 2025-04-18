@@ -1,0 +1,40 @@
+{
+    "Products": [
+        {
+            "id": "1000",
+            "name": "FOGG",
+            "inStock": false,
+            "price": 199
+        },
+        {
+            "id": "1001",
+            "name": "Eva",
+            "inStock": true,
+            "price": 199
+        },
+        {
+            "id": "1002",
+            "name": "Wattergirl",
+            "inStock": true,
+            "price": 206
+        },
+        {
+            "id": "1003",
+            "name": "Jass",
+            "inStock": false,
+            "price": 34
+        },
+        {
+            "id": "1004",
+            "name": "Bella-White",
+            "inStock": true,
+            "price": 499
+        },
+        {
+            "id": "1005",
+            "name": "Envy Mens Natural",
+            "inStock": false,
+            "price": 101
+        }
+    ]
+}
